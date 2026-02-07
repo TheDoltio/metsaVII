@@ -2,5 +2,6 @@
     "H": 0,
     "expected_p": 1013,
     "p_tolerance": 1,
-    "pyt_sens": 0
+    "pyt_sens": 0,
+    "trad_time": 0
 }
