@@ -13,7 +13,7 @@ UPDATE_INTERVAL = 60_000  # ms
 # ---------------- Ventana principal ----------------
 root = tk.Tk()
 root.title(f"metsaVII – v{VERSION}")
-root.geometry("850x420")
+root.geometry("950x420")
 
 # Layout base
 for col in range(5):
